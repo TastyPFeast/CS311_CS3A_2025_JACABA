@@ -1,0 +1,64 @@
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.AssemblyReference.cache
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture1.resources
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.GenerateResource.cache
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.CoreCompileInputs.cache
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\VISUAL STUDIO JACABA\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Act1.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.AssemblyReference.cache
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.SuggestedBindingRedirects.cache
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture2.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Act1.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture1.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.GenerateResource.cache
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.CoreCompileInputs.cache
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture3.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture4.resources
+C:\Users\23-00582\Downloads\CS311-CS3A-2025-JACABA-20250710T092804Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Prelim_Act_2.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.AssemblyReference.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture2.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture3.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture4.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Act1.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture1.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Prelim_Act_2.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.GenerateResource.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.CoreCompileInputs.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311-CS3A-2025-JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\bin\Debug\MySql.Data.DLL
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.AssemblyReference.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture2.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture3.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture4.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Act1.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLecture1.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Prelim_Act_2.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.GenerateResource.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\CS311-CS3A-2025-JACABA.csproj.CoreCompileInputs.cache
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\CS311-CS.3178E8AD.Up2Date
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\arvin\Downloads\CS311-CS3A-2025-JACABA-20250717T131211Z-1-001\CS311_CS3A_2025_JACABA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PracticePrelimExam.resources
